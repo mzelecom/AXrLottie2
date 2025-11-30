@@ -1,0 +1,45 @@
+# Gradle
+.gradle/
+build/
+*/build/
+
+# Android Studio
+.idea/
+*.iml
+.DS_Store
+local.properties
+
+# C++ / NDK
+.cxx/
+.externalNativeBuild/
+*/.cxx/
+*/.externalNativeBuild/
+*.o
+*.obj
+*.so
+*.dll
+*.a
+*.exe
+
+# Android artifacts
+*.apk
+*.ap_
+*.aab
+
+# Android intermediates
+intermediates/
+outputs/
+generated/
+
+# Java/Kotlin compile cache
+*.class
+*.dex
+*.kotlin_module
+
+# Captures (Android Studio screenshots)
+captures/
+
+# Temp files
+*.tmp
+*.temp
+*.log
